@@ -1,0 +1,25 @@
+.container {
+  width: 100%;
+  height: 100%;
+}
+
+.table-data {
+  position: relative;
+  top: 6%;
+}
+
+.add-access-key-btn {
+  position: absolute;
+  right: 20%;
+}
+
+.access-key-dialog .dialog-footer {
+  position: relative;
+  left: 50%;
+}
+
+.pagination {
+  position: absolute;
+  right: 19.8%;
+  margin-top: 1%;
+}

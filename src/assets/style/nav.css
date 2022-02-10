@@ -1,0 +1,25 @@
+.container {
+  width: 100%;
+  height: 100%;
+}
+
+.logo-img {
+  background-color: #6169e1;
+  width: 200px;
+  height: 200px;
+  background-size: 200px 180px;
+  background-repeat: no-repeat;
+  background-position-y: 20px;
+}
+
+>>> .el-submenu__title i {
+  color: #FFFFFF;
+}
+
+>>> .el-submenu.is-opened i {
+  color: #ffd04b;
+}
+
+>>> .el-submenu.is-opened span {
+  color: #ffd04b;
+}
