@@ -23,6 +23,12 @@
   left: 50%;
 }
 
+.customer-label-dialog .dialog-footer {
+  position: absolute;
+  left: 35%;
+  top: 78.5%;
+}
+
 .pagination {
   position: absolute;
   right: 19.8%;
